@@ -1,3 +1,5 @@
+#need to be reviewed
+
 package com.example.bastachat
 
 import android.content.Intent
