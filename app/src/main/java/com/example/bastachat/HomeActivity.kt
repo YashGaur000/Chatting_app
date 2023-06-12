@@ -1,4 +1,4 @@
-#need to be reviewed
+//need to be reviewed
 
 package com.example.bastachat
 
