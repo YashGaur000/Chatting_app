@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334673785574",
+    "project_id": "basta-chat-1bd91",
+    "storage_bucket": "basta-chat-1bd91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334673785574:android:a6dff4ba56f27dcd064127",
+        "android_client_info": {
+          "package_name": "com.example.bastachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334673785574-edu7uc5nb87io1c91472fppiqippdrkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByLgI6qv0zGdySec1NSuYObByGs8V9qjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334673785574-edu7uc5nb87io1c91472fppiqippdrkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
