@@ -1,3 +1,5 @@
+#changes need to be made
+
 package com.example.bastachat
 
 import android.content.Intent
