@@ -1,4 +1,4 @@
-//start Registration
+//Begin Registration
 
 package com.example.bastachat
 
