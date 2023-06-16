@@ -1,4 +1,4 @@
-//HomeActivity start
+//HomeActivity Begin
 
 package com.example.bastachat
 
